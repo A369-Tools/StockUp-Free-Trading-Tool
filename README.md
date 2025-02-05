@@ -1,1 +1,1 @@
-# Vietnam-Trading-Tool
+# StockUp - Free Trading Tool.
