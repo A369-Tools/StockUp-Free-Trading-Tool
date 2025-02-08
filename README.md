@@ -12,12 +12,13 @@
 
 1. [Giới thiệu](#1-Giới-thiệu)
 2. [Mục tiêu](#2-Mục-tiêu)
-3. [Tải & cài đặt](#3-Tải-&-cài-đặt)
+3. [Tải & cài đặt](#3-tải--cài-đặt)
 4. [Hướng dẫn sử dụng](#4-Hướng-dẫn-sử-dụng)
-5. [Bản quyền](#7-Bản-quyền)
-6. [Liên hệ và hỗ trợ](#6-Liên-hệ-và-hỗ-trợ)
-7. [Báo lỗi & yêu cầu tính năng](#7-Báo-lỗi-&-yêu-cầu-tính-năng)
-8. [Thu thập thông tin](#7-Thu-thập-thông-tin)
+5. [Báo lỗi & yêu cầu tính năng](#5-báo-lỗi--yêu-cầu-tính-năng)
+6. [Bản quyền](#6-bản-quyền)
+7. [Liên hệ và hỗ trợ](#7-liên-hệ-và-hỗ-trợ)
+8. [Thu thập thông tin](#8-thu-thập-thông-tin)
+9. [MIỄN TRỪ TRÁCH NHIỆM](#9-miễn-trừ-trách-nhiệm)
 
 
 ## 1. Giới thiệu
@@ -64,3 +65,8 @@ Nếu bạn có bất kỳ thắc mắc nào, vui lòng liên hệ với chúng 
 ## 8. Thu thập thông tin
 
 Công cụ **StockUp - Free Trading Tool** chỉ thu thập thông tin lỗi của công cụ được ghi lại trong quá trình bạn sử dụng công cụ. Việc thu thập lỗi nhằm mục đích để cải thiện, sửa lỗi cho công cụ. Ngoài ra, chúng tôi **KHÔNG** thu thập các thông tin liên quan đến bạn, tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn. Tất cả những dữ liệu mà bạn nhập vào ứng dụng sẽ được lưu trữ tại máy mà bạn cài đặt công cụ và bạn có toàn quyền kiểm soát dữ liệu này.
+
+## 9. MIỄN TRỪ TRÁCH NHIỆM
+
+Khi bạn tải về, cài đặt và sử dụng **StockUp - Free Trading Tool** đồng nghĩa với bạn hiểu, đồng ý và chấp nhận mọi rủi ro liên quan khi sử dụng công cụ. StockUp không liên quan, không chịu trách nhiệm trong bất kỳ trường hợp nào xảy ra với tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn.
+
