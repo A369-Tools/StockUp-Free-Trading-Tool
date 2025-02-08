@@ -70,3 +70,69 @@ Công cụ **StockUp - Free Trading Tool** chỉ thu thập thông tin lỗi c�
 
 Khi bạn tải về, cài đặt và sử dụng **StockUp - Free Trading Tool** đồng nghĩa với bạn hiểu, đồng ý và chấp nhận mọi rủi ro liên quan khi sử dụng công cụ. StockUp không liên quan, không chịu trách nhiệm trong bất kỳ trường hợp nào xảy ra với tài khoản chứng khoán, số dư, quá trình giao dịch, lãi/lỗ... của bạn.
 
+<hr>
+
+
+## Table of Contents
+
+1. [Introduction](#1-introduction)  
+2. [Objectives](#2-objectives)  
+3. [Download & Installation](#3-download--installation)  
+4. [User Guide](#4-user-guide)  
+5. [Bug Reports & Feature Requests](#5-bug-reports--feature-requests)  
+6. [License](#6-license)  
+7. [Contact & Support](#7-contact--support)  
+8. [Data Collection](#8-data-collection)  
+9. [DISCLAIMER](#9-disclaimer)  
+
+
+## 1. Introduction
+
+We have created a stock trading tool for all derivative stock investors in Vietnam. The tool is completely free to download and use during your derivative trading activities.
+
+This tool helps investors analyze and trade VN30 index futures contracts, including **VN30F1M**, **VN30F2M**, **VN30F1Q**, and **VN30F2Q**.
+
+## 2. Objectives
+
+- Develop a free derivative stock trading tool.  
+- Support derivative stock investors in their trading process.  
+- Reduce the time investors spend monitoring the derivative stock market.  
+
+## 3. Download & Installation  
+
+<div align="center">
+
+| Version | Windows OS | Mac OS |  
+|---------|-----------|--------|  
+| StockUp - Free Trading Tool<br />(Latest Version) | [Windows 11 or later](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-windows.exe) | [Mac darwin-x64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-x64.dmg) <br /> [Mac darwin-aarch64](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases/latest/StockUp-FTT-darwin-aarch64.dmg) |  
+
+</div>
+
+Or download and install an older version from: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/releases)  
+
+## 4. User Guide  
+
+View the user guide for **StockUp - Free Trading Tool** [here](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/blob/main/docs).  
+
+## 5. Bug Reports & Feature Requests  
+
+If you encounter any issues or wish to request a new feature for **StockUp - Free Trading Tool**, please create a request at: [https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues](https://github.com/A369-Tools/StockUp-Free-Trading-Tool/issues) or email us at [support@stockup.vn](support@stockup.vn).  
+
+## 6. License  
+
+This tool is licensed under the [MIT License](LICENSE-CODE). The use of **StockUp - Free Trading Tool** must comply with the license model.  
+
+## 7. Contact & Support  
+
+If you have any questions, please contact us at [support@stockup.vn](support@stockup.vn).  
+
+## 8. Data Collection  
+
+The **StockUp - Free Trading Tool** only collects error logs recorded during tool usage. This data is collected solely for the purpose of improving and fixing issues within the tool.  
+
+Additionally, we **DO NOT** collect any personal information, stock account details, balance, trading history, profit/loss data, etc. All data entered into the application is stored locally on the device where the tool is installed, and you have full control over this data.  
+
+## 9. DISCLAIMER  
+
+By downloading, installing, and using **StockUp - Free Trading Tool**, you acknowledge, agree, and accept all risks associated with using the tool. StockUp is not affiliated with and assumes no responsibility for any issues related to your stock account, balance, trading activities, profit/loss, or other related matters.
+
